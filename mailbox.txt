@@ -1,0 +1,1 @@
+Email[from=admin@example.com, body=Hello, Sir! You got a new message.]
